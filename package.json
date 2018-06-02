@@ -74,7 +74,7 @@
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
     "rimraf": "^2.6.2",
-    "sass-loader": "^6.0.7",
+    "sass-loader": "^7.0.2",
     "semantic-release": "^15.1.5",
     "style-loader": "^0.21.0",
     "whatwg-fetch": "^2.0.4"
