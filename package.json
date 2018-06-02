@@ -41,7 +41,7 @@
     "@babel/preset-env": "^7.0.0-beta.44",
     "@babel/preset-react": "^7.0.0-beta.44",
     "@babel/preset-stage-1": "^7.0.0-beta.44",
-    "@commitlint/cli": "^6.1.2",
+    "@commitlint/cli": "^7.0.0",
     "@commitlint/config-conventional": "^6.1.2",
     "@storybook/addon-actions": "^3.4.0",
     "@storybook/addon-info": "^3.4.0",
