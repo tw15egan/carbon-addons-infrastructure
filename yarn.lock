@@ -3041,18 +3041,18 @@ capture-stack-trace@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/capture-stack-trace/-/capture-stack-trace-1.0.0.tgz#4a6fa07399c26bba47f0b2496b4d0fb408c5550d"
 
-carbon-components-react@^5.41.1:
-  version "5.41.1"
-  resolved "https://registry.yarnpkg.com/carbon-components-react/-/carbon-components-react-5.41.1.tgz#acb0b2e7dee7bb382f144857117bddc5cfd02208"
+carbon-components-react@^6.4.0:
+  version "6.4.0"
+  resolved "https://registry.yarnpkg.com/carbon-components-react/-/carbon-components-react-6.4.0.tgz#da3834b5a5d8481a0b0b4bb9b9b92a0037f697b3"
   dependencies:
     classnames "2.2.5"
-    downshift "^1.23.2"
-    flatpickr "4.3.0"
+    downshift "^1.31.14"
+    flatpickr "4.5.0"
     invariant "^2.2.3"
     lodash.debounce "^4.0.8"
     lodash.isequal "^4.5.0"
     lodash.omit "^4.5.0"
-    warning "3.0.0"
+    warning "^3.0.0"
     window-or-global "^1.0.1"
 
 carbon-components@^8.18.3:
@@ -4099,9 +4099,9 @@ dotenv@^5.0.1:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-5.0.1.tgz#a5317459bd3d79ab88cff6e44057a6a3fbb1fcef"
 
-downshift@^1.23.2:
-  version "1.31.3"
-  resolved "https://registry.yarnpkg.com/downshift/-/downshift-1.31.3.tgz#09743d904de8cd18d6f22d2075c943b898aa0ef0"
+downshift@^1.31.14:
+  version "1.31.15"
+  resolved "https://registry.yarnpkg.com/downshift/-/downshift-1.31.15.tgz#ac31c601e2e9e34c5bb85b969c11ba87248f5e67"
 
 duplexer2@~0.1.0:
   version "0.1.4"
@@ -4776,9 +4776,9 @@ flatpickr@2.6.3:
   version "2.6.3"
   resolved "https://registry.yarnpkg.com/flatpickr/-/flatpickr-2.6.3.tgz#457357532deb135f3da64b425bf4435737961564"
 
-flatpickr@4.3.0:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/flatpickr/-/flatpickr-4.3.0.tgz#9cc3aa8c9a2bde1ea431be0f4a74f40f9bad79e3"
+flatpickr@4.5.0:
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/flatpickr/-/flatpickr-4.5.0.tgz#f72c7164a1c24e3ad419e3b2209d1a2d3604724a"
 
 flatten@^1.0.2:
   version "1.0.2"
@@ -10503,7 +10503,7 @@ walker@~1.0.5:
   dependencies:
     makeerror "1.0.x"
 
-warning@3.0.0, warning@^3.0.0:
+warning@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/warning/-/warning-3.0.0.tgz#32e5377cb572de4ab04753bdf8821c01ed605b7c"
   dependencies:
