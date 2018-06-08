@@ -48,7 +48,7 @@
     "@storybook/addons": "^3.3.0",
     "@storybook/cli": "^3.4.0",
     "@storybook/react": "^3.4.0",
-    "all-contributors-cli": "^4.11.1",
+    "all-contributors-cli": "^5.0.0",
     "autoprefixer": "^8.2.0",
     "babel-core": "^7.0.0-bridge",
     "babel-jest": "^23.0.1",
